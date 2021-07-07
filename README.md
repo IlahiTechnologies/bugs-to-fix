@@ -1,2 +1,2 @@
 # bugs-to-fix
-Add all the issues u need to tell to me for any of the projects i am working on.
+Add all the issues, you need to tell to me in any of the projects I am working on.
